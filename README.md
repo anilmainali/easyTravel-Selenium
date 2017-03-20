@@ -1,4 +1,4 @@
-# easytravel-selenium
+# EasyTravel-Selenium
 
 ### Resources
 Demo Applications - easyTravel
