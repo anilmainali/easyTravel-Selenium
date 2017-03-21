@@ -1,5 +1,10 @@
 # Welcome to EasyTravel-Selenium Repo
 
+This Repo will be used as a tutorial on how to create a Selenium script to run EasyTravel App.
+
+
+
+
 ### Resources
 Demo Applications - easyTravel
 https://community.dynatrace.com/community/display/DL/Demo+Applications+-+easyTravel
