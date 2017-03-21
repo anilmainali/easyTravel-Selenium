@@ -13,7 +13,7 @@ To find out about more about EasyTravel App and instructions on how to download 
 ## Set up your environment to run the Selenium Script.
 After you have access to EasyTravel App set up an environment to run the Selenium script.
 
-## Installing and Configuration insstructions to Setup Selenium.
+## Installing and Configuration instructions to Setup Selenium.
 
 #### Step 1 : Download Java
 #### Step 2 : Set Environmental Variables
