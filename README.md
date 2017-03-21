@@ -19,13 +19,20 @@ https://www.youtube.com/watch?v=ps9Y14KlPyU
 
 Contact information for authors of this repo:
 
-Wilson Mar, @wilsonmar, https://www.linkedin.com/in/wilsonmar
+### Wilson Mar, @wilsonmar, 
+
+https://www.linkedin.com/in/wilsonmar
 
 wilsonmar at gmail, 310.320-7878
 
 wilsonmar4 on Skype.
 
-Anil Mainali, https://www.linkedin.com/in/anilmainali/
+### Anil Mainali, 
+
+https://www.linkedin.com/in/anilmainali/
+
 mainalidfw at gmail
+
 anilmainali on twitter
+
 mainalidfw on Skype
