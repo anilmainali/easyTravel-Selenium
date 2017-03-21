@@ -2,8 +2,26 @@
 
 This Repo will be used as a tutorial on how to create a Selenium script to run EasyTravel App.
 
-### What is EasyTravel App? 
-To find out about EasyTravel and instructions on how to download the app,navigate to <a href="https://wilsonmar.github.io/easytravel/"> Wilson Mar's Blog Post.</a>
+## Prerequisite
+0. Download EasyTravel App
+0. Set up your environment to run the Selenium script.
+
+
+### Download instructions and information about EasyTravel App.
+To find out about more about EasyTravel App and instructions on how to download the app,navigate to <a href="https://wilsonmar.github.io/easytravel/"> Wilson Mar's Blog Post.</a>
+
+### Set up your environment to run the Selenium Script.
+After you have access to EasyTravel App set up an environment to run the Selenium script.
+
+### Installing and Configuration insstructions to Setup Selenium.
+
+#### Step 1 : Download Java
+#### Step 2 : Set Environmental Variables
+#### Step 3 : Download Eclipse or IntelliJ
+#### Create Java Project
+#### Download Selenium Jars
+#### Import Selenium Jars into Project
+#### Create your First Selenium Script
 
 
 ### Resources
