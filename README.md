@@ -21,7 +21,9 @@ After you have access to EasyTravel App set up an environment to run the Seleniu
 #### Step 4 :Create Java Project
 #### Step 5 :Download Selenium Jars
 #### Step 6 :Import Selenium Jars into Project
-#### Step 7 :Create your First Selenium Script
+
+
+## Create your First Selenium Script using EasyTravel App.
 
 
 ## Resources
