@@ -1,4 +1,4 @@
-# EasyTravel-Selenium
+# Welcome to EasyTravel-Selenium Repo
 
 ### Resources
 Demo Applications - easyTravel
