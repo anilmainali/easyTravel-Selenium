@@ -3,10 +3,7 @@
 This Repo will be used as a tutorial on how to create a Selenium script to run EasyTravel App.
 
 ### What is EasyTravel App? 
-To find out about EasyTravel App navigate to Wilson Mar's Blog Post.
-https://wilsonmar.github.io/easytravel/
-
-
+To find out about EasyTravel App navigate to <a href="https://wilsonmar.github.io/easytravel/"> Wilson Mar's Blog Post.</a>
 
 
 ### Resources
