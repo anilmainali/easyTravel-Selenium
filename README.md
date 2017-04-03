@@ -21,11 +21,11 @@ After you have access to EasyTravel App set up an environment to run the Seleniu
 
 ## Installing and Configuration instructions to Setup Selenium.
 
-First let us be clear that there is no such tool called "Selenium".we do not need to install Selenium. All we have to do is to download Selenium jars , Import and configure Selenium Jars into Project.
+First, let us be clear that there is no such tool called "Selenium".we do not need to install Selenium. All we have to do is to download Selenium jars , Import and configure Selenium Jars into Project.
 
-Since we will be write the selenium scripts using Java so we need to pick up some kind of editor to run our Java Code. For this we can  download some kind of IDE like Eclipse or IntelliJ.
- 
-Eclipse IDE only works with java support,so first thing first you need to download java.
+Since we will be write the selenium scripts using Java so we need to pick up some kind of editor to run our Java Code. For this we can  download Eclipse or IntelliJ to run our Java code.
+
+In this tutorial, we will be using Eclipse IDE as our editor.So,first thing first we need to download java.
 
 So you must be clear now that there is no such tool as selenium we need to set up Selenium by downloading and installing independent tools so that we can write Selenium scripts.
 
