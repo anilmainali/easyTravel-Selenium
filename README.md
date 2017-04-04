@@ -36,9 +36,7 @@ Question before you get started: Is Java JRE and Java Development Kit (JDK) Free
 
 Answer: Yes, you can download it from Oracle Official website.
 
-You can click to this link to download JRE and Java Development Kit(JDK)
-
-http://softwaretestingcafe.com/how-to-download-and-install-java-development-kit-jdk/
+Inorder to download and install JRE and Java Development Kit(JDK) you can navigate to <a href="http://softwaretestingcafe.com/how-to-download-and-install-java-development-kit-jdk/"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to download and intall Java Development Kit on your Windows 7.
 
 #### Step 2 : Set Environmental Variables
 TODO
