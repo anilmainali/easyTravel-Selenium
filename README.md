@@ -2,24 +2,24 @@
 
 This Repo will be used as a tutorial on how to create a Selenium script to run easyTravel App.
 
-## Prerequisite
+# Prerequisite
 1. Download easyTravel App
 2. Set up your environment to run the Selenium script.
 
 
-## Download instructions and information about easyTravel App.
+# Download instructions and information about easyTravel App.
 To find out about more about EasyTravel App and instructions on how to download the app,navigate to <a href="https://wilsonmar.github.io/easytravel/"> Wilson Mar's Blog Post.</a>
 
-## easyTravel Download Instruction:
+# easyTravel Download Instruction:
 TODO
 
-## Invoke the sample easyTravel App
+# Invoke the sample easyTravel App
 TODO
 
-## Set up your environment to run the Selenium Script.
+# Set up your environment to run the Selenium Script.
 After you have access to EasyTravel App set up an environment to run the Selenium script.
 
-## Installing and Configuration instructions to Setup Selenium.
+# Installing and Configuration instructions to Setup Selenium.
 
 First, let us be clear that there is no such tool called "Selenium".we do not need to install Selenium. All we have to do is to download Selenium jars , Import and configure Selenium Jars into Project.
 
@@ -31,26 +31,26 @@ So you must be clear now that there is no such tool as selenium we need to set u
 
 Let's get started:
 
-#### Step 1 : Download Java JRE and Java Deveopment Kit(JDK)
+## Step 1 : Download Java JRE and Java Deveopment Kit(JDK)
 Question before you get started: Is Java JRE and Java Development Kit (JDK) Free to Download?
 
 Answer: Yes, you can download it from Oracle Official website.
 
 Inorder to download and install JRE and Java Development Kit(JDK) you can navigate to <a href="http://softwaretestingcafe.com/how-to-download-and-install-java-development-kit-jdk/"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to download and intall Java Development Kit on your Windows 7.
 
-#### Step 2 : Set Environmental Variables
+## Step 2 : Set Environmental Variables
 Inorder to Set Environmental Variables, you can navigate to <a href="http://softwaretestingcafe.com/how-to-set-the-path-and-environment-variables-in-windows-7/?preview=true"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to Set Environmental Variables on your Windows 7.
 
-#### Step 3 : Download Eclipse or IntelliJ
+## Step 3 : Download Eclipse or IntelliJ
 TODO
 
-#### Step 4 :Create Java Project
+## Step 4 :Create Java Project
 TODO
 
-#### Step 5 :Download Selenium Jars
+## Step 5 :Download Selenium Jars
 TODO
 
-#### Step 6 :Import Selenium Jars into Project
+## Step 6 :Import Selenium Jars into Project
 TODO
 
 
