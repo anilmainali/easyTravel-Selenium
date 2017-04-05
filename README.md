@@ -39,7 +39,7 @@ Answer: Yes, you can download it from Oracle Official website.
 Inorder to download and install JRE and Java Development Kit(JDK) you can navigate to <a href="http://softwaretestingcafe.com/how-to-download-and-install-java-development-kit-jdk/"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to download and intall Java Development Kit on your Windows 7.
 
 #### Step 2 : Set Environmental Variables
-TODO
+Inorder to Set Environmental Variables, you can navigate to <a href="http://softwaretestingcafe.com/how-to-set-the-path-and-environment-variables-in-windows-7/?preview=true"> Anil Mainali's Blog Post.</a> where you can follow the step by step tutorial on how to Set Environmental Variables on your Windows 7.
 
 #### Step 3 : Download Eclipse or IntelliJ
 TODO
