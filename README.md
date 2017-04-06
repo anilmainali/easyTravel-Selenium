@@ -45,7 +45,17 @@ Inorder to Set Environmental Variables, you can navigate to <a href="http://soft
 For this tutorial we are going to Download and install Eclipse IDE.For the complete step by step tutorial navigate to <a href="http://softwaretestingcafe.com/how-to-download-eclipse-neon-on-windows-7/"> Anil Mainali's Blog Post.
 
 ## Step 4 :Open Eclipse IDE for the first time.
-TODO
+Navigate to the directory folder where you downloaded and saved your Eclipse.
+
+Click on **eclipse.exe** file
+
+It will open a Eclipse launcher where you have a option to select a directory where you want to save your work.
+
+Either leave the default (in my case C:\users\Mainali\workspace) and Click OK. Or browse to the folder where you want to save your work and click OK.
+
+It will load the Eclipse and will launch the welcome screen.
+
+Click on Create a new Java Project link.
 
 ## Step 5 :Download Selenium Jars
 TODO
