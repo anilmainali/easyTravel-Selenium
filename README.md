@@ -57,6 +57,10 @@ It will load the Eclipse and will launch the welcome screen.
 
 Click on Create a new Java Project link.
 
+It will open a new Project dialog where you have to enter the Project Name and click on Finish.
+
+You will be presented with an Eclipse interface with your project name , src and Java library.
+
 ## Step 5 :Download Selenium Jars
 TODO
 
