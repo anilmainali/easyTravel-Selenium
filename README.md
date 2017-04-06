@@ -44,7 +44,7 @@ Inorder to Set Environmental Variables, you can navigate to <a href="http://soft
 ## Step 3 : Download Eclipse or IntelliJ
 For this tutorial we are going to Download and install Eclipse IDE.For the complete step by step tutorial navigate to <a href="http://softwaretestingcafe.com/how-to-download-eclipse-neon-on-windows-7/"> Anil Mainali's Blog Post.
 
-## Step 4 :Create Java Project
+## Step 4 :Open Eclipse IDE for the first time.
 TODO
 
 ## Step 5 :Download Selenium Jars
