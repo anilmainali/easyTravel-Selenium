@@ -73,11 +73,51 @@ Note: This will be downloaded as a zip file.
 Click on the downloaded zip or Click on dropdown arrow and select and click on show in folder.
 
 Unzip the file
+ You have successfully downloaded the Selenium jar on your computer. Follow the next section to import  the selenium jar into your project.
 
-You have successfully downloaded the Selenium jar on your computer. Follow the next section to import  the selenium jar into your project.
+## Step 6 :Import Selenium Jars into Project.
 
-## Step 6 :Import Selenium Jars into Project
-TODO
+Open you Eclipse IDE and create a new projectby right clicking into project explorer section.
+
+Select new and click on other then java project.
+
+Click on Next.
+
+Provide a project name for Example easyTravel Project.
+
+Click on Finish.
+
+Now,
+
+Right Click on the project.
+
+Click on Properties.
+
+Click on Java build path.
+
+Go to Libraries.
+
+Click on Add External Jars.
+
+Go to downloads where you downloaded your jars.
+
+Select and click on Selenium -Java-3.3.1-nodes.jar.
+
+It imports the jar.
+
+Again click on Add External jars.
+
+Open the library folder.
+
+Select all the jars by pressing Ctrl + A and click on Open
+
+All your jars will be imported.
+
+Click OK. All your Selenium Jars will be placed under your project.
+
+Now, you are all set to write your selenium scripts using Java using Eclipse IDE.
+
+
 
 
 ## Create your First Selenium Script using easyTravel App.
