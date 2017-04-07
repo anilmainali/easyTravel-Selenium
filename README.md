@@ -74,6 +74,8 @@ Click on the downloaded zip or Click on dropdown arrow and select and click on s
 
 Unzip the file
  You have successfully downloaded the Selenium jar on your computer. Follow the next section to import  the selenium jar into your project.
+ 
+ Note: Make a note of where you have downloaded your file. In my case, I have saved in C:\Users\Mainali\Downloads\selenium-java-3.3.1
 
 ## Step 6 :Import Selenium Jars into Project.
 
