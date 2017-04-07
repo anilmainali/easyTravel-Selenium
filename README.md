@@ -62,7 +62,19 @@ It will open a new Project dialog where you have to enter the Project Name and c
 You will be presented with an Eclipse interface with your project name , src and Java library.
 
 ## Step 5 :Download Selenium Jars
-TODO
+Navigate to the Selenium official website: http://www.seleniumhq.org/download/
+
+Under Selenium Client & WebDriver Language Bindings, click on Download Link next to Java.
+
+Selenium-Java-3.3.1-Zip will be downloaded.
+
+Note: This will be downloaded as a zip file.
+
+Click on the downloaded zip or Click on dropdown arrow and select and click on show in folder.
+
+Unzip the file
+
+You have successfully downloaded the Selenium jar on your computer. Follow the next section to import  the selenium jar into your project.
 
 ## Step 6 :Import Selenium Jars into Project
 TODO
