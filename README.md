@@ -97,13 +97,15 @@ Click on Properties.
 
 Click on Java build path.
 
-Go to Libraries.
+Select Libraries.
 
 Click on Add External Jars.
 
 Go to downloads where you downloaded your jars.
 
-Select and click on Selenium -Java-3.3.1-nodes.jar.
+Select and click on client-combined-3.3.1-nodeps.jar.
+
+Click Apply
 
 It imports the jar.
 
