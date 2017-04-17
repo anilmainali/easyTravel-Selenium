@@ -32,7 +32,7 @@ So you must be clear now that there is no such tool as selenium we need to set u
 Let's get started:
 
 ## Step 1 : Download Java JRE and Java Deveopment Kit(JDK)
-Question before you get started: Is Java JRE and Java Development Kit (JDK) Free to Download?
+Question before you get started: Is Java JRE and Java Development Kit (JDK) Free to Download? 
 
 Answer: Yes, you can download it from Oracle Official website.
 
